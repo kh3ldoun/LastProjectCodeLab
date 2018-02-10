@@ -1,0 +1,32 @@
+.fixed-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}
+#home{
+    color: darkorange;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0);
+    background-attachment: fixed;
+    min-width: 1349px;
+    left: 0px;
+    width: 1348px;
+    background-position: 50% -18px;
+}
+
+
+.d-md-flex {
+    display: -webkit-box!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+.vue {
+    font-size: medium;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}

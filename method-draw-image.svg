@@ -1,0 +1,15 @@
+<svg width="840" height="191" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="191" width="800" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="normal" stroke="#ffffff" transform="matrix(0.5074803346835655,0,0,0.41099273278130427,-14.774363007759462,88.966073917649) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="250" id="svg_1" y="81.51505" x="25.060655" stroke-width="0" fill="#bf5f00">MKM3DPrinter</text>
+  <path d="m340.5,359c0,-2 -0.279327,-6.005585 0,-13c1.000793,-25.059906 2.444183,-40.160706 8,-49c16.573761,-26.368744 36.031738,-32.576172 45,-37c23.282959,-11.484955 38.608978,-10.061462 46,-7c13.065643,5.411957 12.091095,16.970398 14,23c3.151123,9.9534 4,15 4,22c0,19 0,26 0,30l-1,3" id="svg_2" stroke-width="0" stroke="#ffffff" fill="none"/>
+ </g>
+</svg>
